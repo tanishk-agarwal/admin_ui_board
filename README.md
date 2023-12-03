@@ -1,18 +1,14 @@
-# geektrust_admin_ui
+# geektrust_admin_board
 
-This is proof of work for [geektrust](https://www.geektrust.com/challenge/admin-ui)
+This is proof of work for [assignment 2](https://dark-shield-55e.notion.site/Admin-Dashboard-3bc214bb876e4453ae3cd23288548689)
 
 
 
 ## **See Live**
 
-[Admin-UI](https://geektrust-admin-ui-asssignment.netlify.app/)
+[Admin-UI](https://admin-ui-board.netlify.app/)
 
 ![image](https://github.com/Krushna-Kulkarni/geektrust_admin_ui/assets/62604823/e339701b-409e-45e5-aece-16866b229bd5)
-
-## **Evaluation**
-
-![score](https://github.com/Krushna-Kulkarni/geektrust_admin_ui/assets/62604823/d0f32f2f-66ea-4fca-8a4c-5b8b3625a96c)
 
 ## **Install and Run Locally**
 
